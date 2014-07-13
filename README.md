@@ -1,3 +1,2 @@
 Tutorial
 ========
-Hi Alice!
